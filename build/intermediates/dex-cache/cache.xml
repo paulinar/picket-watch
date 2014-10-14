@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/build/intermediates/pre-dexed/debug/slf4j-dba4d91cba919fecd3bbd3baeb31e9cbba7b2cca.jar"
+        jar="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/libs/slf4j.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1"/>
+    <item
+        dex="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/build/intermediates/pre-dexed/debug/android-toq-api-1.5.2-70658b408c6f5c2f5329d4af5d5acf71c2377682.jar"
+        jar="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/libs/android-toq-api-1.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="33b06af4f6ee27952eee84fe82ed15d8f603d4b7"/>
+    <item
+        dex="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/build/intermediates/pre-dexed/debug/flickrj-f1dec107bd180e5d3e18983af489580d68ad132e.jar"
+        jar="/Users/paulina/Dropbox/CS 160 (User Interface)/sample Android apps/SectionToqActivity/app/libs/flickrj.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36"/>
+
+</pre-dex-items>
